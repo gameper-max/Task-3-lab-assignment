@@ -1,5 +1,5 @@
 # pseducode 1
-'''Begin
+" 'Begin
   si = int(365)
   Grad = char('A')
   GpA = float(3.65)
@@ -9,7 +9,7 @@
   print("\nGrade : ",Grad)
   print("\nGPA : ",GpA)
 
-End'''
+End'"
 
 # pseducode 2
 '''Begin
