@@ -1,5 +1,6 @@
 # pseducode 1
-```Begin
+```
+Begin
   si = int(365)
   Grad = char('A')
   GpA = float(3.65)
@@ -13,7 +14,8 @@ End
 ```
 
 # pseducode 2
-```Begin
+```
+Begin
   Initialize char ch
   print("\nEntert a first charecter : ")
   ch = getchar()
@@ -24,7 +26,8 @@ End
 ```
 
 # pseducode 3
-```Begin
+```
+Begin
   
   f = float(3.6541)
   print("\n%.1f",f)
