@@ -1,6 +1,7 @@
 ### Data Types
 
 | **Data Types** | ** Description ** |
+| :---: | |:---: |
 | _int_ | Represents integer values (whole numbers) without decimals. Typically occupies 2 or 4 /bytes depending on the compiler and architecture. |
 | _Float_ | Single-precision floating-point type used to store decimal numbers. Typically occupies/ 4 bytes and provides about 6–7 decimal digits of precision. |
 | _Double_ | Double-precision floating-point type used to store decimal numbers with greater accuracy./ Typically occupies 8 bytes and provides about 15–17 decimal digits of precision. | 
