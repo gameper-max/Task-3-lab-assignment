@@ -24,7 +24,8 @@ Short INtroduction : I am a Curious student who like to know How and Why.
 
   'printf("Hello World")'
 
-  - [x] Task1 - [x] Task2 
+  - [x] Task1
+  - [x] Task2 
   - [x] Task3
   - [x] Task4
   - [x] Task5
