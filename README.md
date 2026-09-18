@@ -21,16 +21,17 @@ Short INtroduction : I am a Curious student who like to know How and Why.
 - precision Formatinf
 
   > C Program is below
-   'printf("Hello World")
 
-  -[x] Task1
-  -[x] Task2 
-  -[x] Task3
-  -[x] Task4
-  -[x] Task5
-  -[x] Task6 
-  -[x] Task7
-  -[x] Task8
-  -[x] Task9
-  -[x] Task10
+  'printf("Hello World")'
+
+  - [x] Task1
+  - [x] Task2 
+  - [x] Task3
+  - [x] Task4
+  - [x] Task5
+  - [x] Task6 
+  - [x] Task7
+  - [x] Task8
+  - [x] Task9
+  - [x] Task10
    
