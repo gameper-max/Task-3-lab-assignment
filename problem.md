@@ -36,3 +36,5 @@ Begin
   print("\n%.4f",f)
 
 End```
+
+Shitcut to
