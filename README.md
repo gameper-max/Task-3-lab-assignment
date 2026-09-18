@@ -22,7 +22,7 @@ Short INtroduction : I am a Curious student who like to know How and Why.
 
   > C Program is below
 
-  'printf("Hello World")'
+  `printf("Hello World")`
 
   - [x] Task1
   - [x] Task2 
