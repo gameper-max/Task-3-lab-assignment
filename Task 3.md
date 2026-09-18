@@ -41,6 +41,7 @@
 ### Escape Sequence
 
 | **Escape Sequence** | **Description** |
+| :---: | |:---: |
 | \n | New Line. |
 | \b | BAckspace. |
 | \t | Tab. |
